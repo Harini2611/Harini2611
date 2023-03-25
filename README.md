@@ -10,6 +10,6 @@ I'm a recent data analysis graduate with a passion for leveraging data to drive 
 
 Thank you for visiting my profile, and I look forward to collaborating with you soon!
 
-<h1>Skills</h1>
+<!--<h1>Skills</h1>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img style="height:50px; width:50px" src = "https://github.com/Harini2611/Images/blob/main/CSS.webp"> </a>
-<a href="[https://developer.mozilla.org/en-US/docs/Web/CSS](https://support.microsoft.com/en-us/excel)"> <img style="height:50px; width:50px" src = "https://github.com/Harini2611/Images/blob/main/Excel.png"> </a>
+<a href="[https://developer.mozilla.org/en-US/docs/Web/CSS](https://support.microsoft.com/en-us/excel)"> <img style="height:50px; width:50px" src = "https://github.com/Harini2611/Images/blob/main/Excel.png"> </a>-->

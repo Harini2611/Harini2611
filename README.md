@@ -9,6 +9,7 @@ I'm a recent data analysis graduate with a passion for leveraging data to drive 
 💬 Let's connect and discuss all things data analysis, poetry, or just life in general! Feel free to reach out to me on LinkedIn or through my email.
 
 Email : harini2611@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/harini-raj/
 
 Thank you for visiting my profile, and I look forward to collaborating with you soon!
